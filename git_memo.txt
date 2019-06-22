@@ -14,3 +14,5 @@ $ git status
 $ git commit -m “コメント”
 $ git remote add origin https://github.com/itsumiryu/リポジトリ名.git
 $ git push origin master(初回はIDとPassを入力)
+
+test from mac
