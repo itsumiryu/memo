@@ -12,7 +12,9 @@ $ git init
 $ git add .(ファイル全部) or $ git add ファイル名
 $ git status
 $ git commit -m “コメント”
+($ git commit -a //変更のあったファイルすべて)
 $ git remote add origin https://github.com/itsumiryu/リポジトリ名.git
 $ git push origin master(初回はIDとPassを入力)
 
-test from mac
+プル
+$ git pull origin master
