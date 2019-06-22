@@ -1,0 +1,16 @@
+クローン→コミット
+$ git clone https://github.com/itsumiryu/FlaskApp.git
+$ git add .
+$ git status
+$ git commit -m 'commit from mac'
+$ git push origin master
+
+
+GitHub上でNew Repositoryを作成
+コミットしたいディレクトリに移動
+$ git init
+$ git add .(ファイル全部) or $ git add ファイル名
+$ git status
+$ git commit -m “コメント”
+$ git remote add origin https://github.com/itsumiryu/リポジトリ名.git
+$ git push origin master(初回はIDとPassを入力)

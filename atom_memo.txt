@@ -1,0 +1,22 @@
+パッケージ
+ japanese-menu
+ file-icons
+ highlight-selected
+ minimap
+ platformio-ide-terminal
+ atom-clock
+ minimap-highlight-selected
+
+コアパッケージ
+ autocomplete-plus
+  -設定から予測変換をタブキーのみに変える
+ spell-check
+  -無効にして赤線が出るのを防ぐ（英語のスペルチェックまで無効になる）
+
+エディタ設定
+ インデント表示（縦線）
+ 不可視文字の可視化
+ テキストの折り返し
+ タブ幅-2
+ ソフトラップ時のインデント幅-0
+ Ctrl＋マウススクロールでフォントサイズ変更
