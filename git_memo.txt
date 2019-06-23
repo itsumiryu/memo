@@ -18,3 +18,9 @@ $ git push origin master(初回はIDとPassを入力)
 
 プル
 $ git pull origin master
+
+プッシュに失敗したとき
+error: failed to push some refs to 'https://github.com/xxxx/xxxxx.git'
+$ git fetch
+$ git merge --allow-unrelated-histories origin/master
+$ git push origin master
